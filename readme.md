@@ -9,13 +9,14 @@ Features of the app:
 
 * Created based SAP Fiori Elements List Report Application
 * Implicit Features from SAP Fiori Elements List Report Application:
-** OData Connection
-** Annotation support
-** fulfilling product standards like UI performance with optimized sending of requests in batch calls
-** storing and restoring of the application state
-** busy handling, prevention of accidental double-clicks
-** UI adaptation support
-** message handling, and many others.
+	* OData Connection
+	* Annotation support
+	* fulfilling product standards like UI performance with optimized sending of requests in batch calls
+	* storing and restoring of the application state
+	* busy handling, prevention of accidental double-clicks
+	* UI adaptation support
+	* message handling, and many others.
+* ...
 
 
 Prerequisites:
