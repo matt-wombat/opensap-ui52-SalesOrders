@@ -16,7 +16,11 @@ Features of the app:
 	* busy handling, prevention of accidental double-clicks
 	* UI adaptation support
 	* message handling, and many others.
-* ...
+* Manually created annotation-driven UI with
+	* List for Sales Orders with Title and defined filter fields and columns
+	* Object Page with two sections:
+		* Customer information based on Order
+		* Sales Order Items
 
 
 Prerequisites:
